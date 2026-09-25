@@ -1,7 +1,7 @@
 """
 Module 2 — Lesson 2: Control Flow (if / elif / else)
 Student: Viernes, Alexander, Jr. M.
-Date: September 24 2026
+Date: September 24, 2026
 
 ============================================
 WHAT IS THIS TOPIC? (explain it like you're
